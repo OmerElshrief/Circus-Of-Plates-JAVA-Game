@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Shapes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Shapes/Rectangle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Shapes/Project3-CircusOfPlates.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
